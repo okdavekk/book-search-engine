@@ -9,7 +9,7 @@
 - [Authors and Acknowledgement](#authors-and-acknowledgement)
 
 ## Resources
-- [REPOSITORY](https://github.com/okdavekk/movie-preferences)
+- [REPOSITORY](https://github.com/okdavekk/book-search-engine)
 
 - [HEROKU](https://frozen-oasis-09204.herokuapp.com/)
 
