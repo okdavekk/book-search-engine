@@ -1,6 +1,23 @@
 # 21 MERN: Book Search Engine
+## Table of Contents
+- [Resources](#resources)
 
+- [Installation Instructions](#installation)
 
+- [Project Description](#project-description)
+
+- [Authors and Acknowledgement](#authors-and-acknowledgement)
+
+## Resources
+- [REPOSITORY](https://github.com/okdavekk/movie-preferences)
+
+- [HEROKU](https://frozen-oasis-09204.herokuapp.com/)
+
+## Installation
+Run these commands in the root of the directory:
+
+- npm i
+- npm run develop
 
 ## Description
 ### Your Task
